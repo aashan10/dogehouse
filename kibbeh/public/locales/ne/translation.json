@@ -15,55 +15,55 @@
     "copied": "copied",
     "formattedIntlDate": "{{date, intlDate}}",
     "formattedIntlTime": "{{time, intlTime}}",
-    "requestPermissions": "Please note running DogeHouse without accessibility permissions may cause unwanted errors",
+    "requestPermissions": "Please note running डोजहाउस without accessibility permissions may cause unwanted errors",
     "copy": "Copy",
     "error": "Error"
   },
   "header": {
     "_comment": "Main Header UI Internationalization Strings",
-    "title": "DogeHouse",
-    "mutedTitle": "Muted | DogeHouse",
-    "deafenedTitle": "Deafened | DogeHouse",
-    "dashboard": "Dashboard",
-    "connectionTaken": "Connection Taken"
+    "title": "डोजहाउस",
+    "mutedTitle": "मौंन | डोजहाउस",
+    "deafenedTitle": "आवाज बन्द | डोजहाउस",
+    "dashboard": "ड्यासबोर्ड",
+    "connectionTaken": "कनेक्सन गरियो"
   },
   "footer": {
     "_comment": "Main Footer UI Internationalization Strings",
     "link_1": "हाम्रो कथा",
-    "link_2": "Discord",
+    "link_2": "डिस्कर्ड",
     "link_3": "गल्ती रिपोर्ट गर्नुहोस्"
   },
   "pages": {
     "_comment": "Respective Page UI Internationalization Strings",
     "admin": {
       "ban": "प्रतिबन्ध",
-      "userStaffandContrib": "User Staff & Contributions",
-      "staff": "Staff: ",
-      "contributions": "Contributions",
-      "username": "Username",
-      "usrStaff": "User Staff",
-      "usrContributions": "User Contributions",
-      "reason": "reason",
-      "usernamePlaceholder": "username to perform actions on"
+      "userStaffandContrib": "प्रयोगकर्ता कर्मचारी र योगदान",
+      "staff": "कर्मचारी: ",
+      "contributions": "योगदान",
+      "username": "प्रयोगकर्ता नाम",
+      "usrStaff": "प्रयोगकर्ता कर्मचारी",
+      "usrContributions": "प्रयोगकर्ता को योगदान",
+      "reason": "कारण",
+      "usernamePlaceholder": "कार्यहरू गर्नका लागि प्रयोगकर्ता नाम"
     },
     "followingOnlineList": {
       "listHeader": "प्रयोगकर्ताहरूको सूची जो प्राइवेट रूम छैनन् र तपाइँ फॉलो गर्नुहुन्छा।",
       "currentRoom": "अहिले हुनुहुन्छ:",
       "startPrivateRoom": "यीनीहरू संग एक प्राइवेट रूम शुरू गर्नुहोस्",
-      "title": "People"
+      "title": "मान्छे"
     },
     "followList": {
-      "followHim": "follow",
-      "followingHim": "following",
-      "title": "People",
-      "followingNone": "Not following anyone",
-      "noFollowers": "No followers"
+      "followHim": "अनुसरण गर्नुहोस्",
+      "followingHim": "अनुसरण गरिएको",
+      "title": "मान्छे",
+      "followingNone": "कसैलाई अनुसरण गरेको छैन",
+      "noFollowers": "कुनै अनुयायीहरू छैनन्"
     },
     "home": {
       "createRoom": "रूम बनाउनुहोस",
-      "refresh": "Refresh",
-      "editRoom": "Edit Room",
-      "desktopAlert": "Download the DogeHouse desktop app today!"
+      "refresh": "रिफ्रेस गर्नुहोस्",
+      "editRoom": "रुम सम्पादन गर्नुहोस्",
+      "desktopAlert": "डोजहाउस एप डाउनलोड गर्नुहोस"
     },
     "inviteList": {
       "roomGone": "रूम गयो, पछाडि जानुहोस्",
@@ -72,27 +72,27 @@
       "whenFollowersOnline": "जब तपाइँका अनुयायीहरू अनलाइन हुन्छन, तिनीहरू यहाँ देखा पर्नेछन।"
     },
     "login": {
-      "headerText": "Taking voice conversations to the moon 🚀",
-      "featureText_1": "Dark Theme",
-      "featureText_2": "Open Sign-Ups",
-      "featureText_3": "Cross-Platform Support",
-      "featureText_4": "Open Source",
-      "featureText_5": "Text Chat",
-      "featureText_6": "Powered by Doge",
-      "loginGithub": "log in with GitHub",
-      "loginTwitter": "log in with Twitter",
-      "createTestUser": "create test user",
-      "loginDiscord": "Login with Discord"
+      "headerText": "कुराकानीहरुलाई चन्द्रमा सम्म पुर्याउदै 🚀",
+      "featureText_1": "डार्क थिम",
+      "featureText_2": "साइन-अप खोल्नुहोस्",
+      "featureText_3": "क्रस-प्लेटफार्म सपोर्ट",
+      "featureText_4": "ओपन सोर्स",
+      "featureText_5": "टेक्स्ट कुराकानी",
+      "featureText_6": "डोज द्वारा संचालित",
+      "loginGithub": "Github बाट लग इन गर्नुहोस्",
+      "loginTwitter": "Twitter बाट लग इन गर्नुहोस्",
+      "createTestUser": "परीक्षण प्रयोगकर्ता सिर्जना गर्नुहोस्",
+      "loginDiscord": "Discord बाट लग इन गर्नुहोस्"
     },
     "myProfile": {
-      "logout": "logout",
+      "logout": "लग आउट",
       "probablyLoading": "सायद लोड हुँदैछ ...",
       "voiceSettings": "वॉइस सेटिंग्समा जानुहोस्",
       "soundSettings": "साउंड सेटिंग्समा जानुहोस्",
       "deleteAccount": "खाता मेटाउनुहोस्",
-      "overlaySettings": "go to overlay settings",
-      "couldNotFindUser": "Sorry, we could not find that user",
-      "privacySettings": "Privacy settings"
+      "overlaySettings": "ओभरले सेटिंग्समा जानुहोस्",
+      "couldNotFindUser": "माफ गर्नुहोस्, हामी त्यो प्रयोगकर्ता फेला पार्न सकेनौं",
+      "privacySettings": "गोपनीयता सेटिंग्स"
     },
     "notFound": {
       "whoopsError": "ओहो ! यो पृष्ठ त कुराकानीमै हरायो।.",
@@ -103,42 +103,42 @@
       "speakers": "स्पिकरहरू",
       "requestingToSpeak": "बोल्न अनुरोध गर्दै",
       "listeners": "श्रोताहरु",
-      "allowAll": "Allow all",
-      "allowAllConfirm": "Are you sure? This will allow all {{count}} requesting users to speak"
+      "allowAll": "सबैलाई अनुमति दिनुहोस्",
+      "allowAllConfirm": "साच्चै हो? यसले सबै {{count} प्रयोगकर्ताहरूलाई बोल्न अनुमति दिनेछ"
     },
     "searchUser": { "search": "खोजी गर्नुहोस्..." },
     "soundEffectSettings": {
       "header": "साउंड",
-      "title": "Sound Settings",
-      "playSound": "Play Sound"
+      "title": "ध्वनि सेटिंग्स",
+      "playSound": "आवाज बजाउनुहोस्"
     },
     "viewUser": {
       "editProfile": "प्रोफाइल सम्पादन गर्नुहोस",
-      "followsYou": "follows you",
+      "followsYou": "तपाइलाई अनुसरण गर्नुहुन्छ",
       "followers": "फॉलोअर्स",
       "following": "फॉलोइंग",
-      "followHim": "follow",
-      "followingHim": "following",
-      "copyProfileUrl": "copy profile url",
-      "urlCopied": "URL copied to clipboard",
+      "followHim": "अनुसरण गर्नुहोस",
+      "followingHim": "अनुसरण गरिएको छ",
+      "copyProfileUrl": "प्रोफाइल यूआरएल कपि गर्नुहोस्",
+      "urlCopied": "URL क्लिपबोर्डमा कपि गरियो",
       "unfollow": "Unfollow",
-      "about": "About",
+      "about": "हाम्रो बारे",
       "bot": "Bot",
       "profileTabs": {
-        "about": "About",
-        "rooms": "Rooms",
-        "scheduled": "Scheduled",
-        "recorded": "Recorded",
-        "clips": "Clips",
-        "admin": "Admin"
+        "about": "हाम्रो बारे",
+        "rooms": "कोठा",
+        "scheduled": "अनुसूचित",
+        "recorded": "रेकर्ड गरियो",
+        "clips": "क्लिपहरू",
+        "admin": "प्रशासन"
       },
-      "block": "Block",
-      "unblock": "Unblock",
-      "sendDM": "Send DM",
+      "block": "ब्लक",
+      "unblock": "अन्ब्लक",
+      "sendDM": "DM पठाउनुहोस्",
       "aboutSuffix": "",
       "errors": {
-        "blocked": "This user has blocked you.",
-        "default": "Whoops! We couldn't load this user."
+        "blocked": "यस प्रयोगकर्ताले तपाईंलाई ब्लक गरेको छ।",
+        "default": "उफ्! हामीले यस प्रयोगकर्तालाई लोड गर्न सकेनौ।"
       }
     },
     "voiceSettings": {
@@ -147,32 +147,32 @@
       "permissionError": "कुनै माईक फेला परेन, तपाईंले या त यस वेबसाइटलाई अनुमति दिनुभएन वा माइकमा प्लग इन गर्न बिर्सनुभयो।",
       "refresh": "रिफ्रेश माइक लिस्ट",
       "volume": "भोल्युम:",
-      "title": "Voice Settings"
+      "title": "ध्वनि सेटिंग्स"
     },
     "overlaySettings": {
-      "input": { "errorMsg": "Invalid app title", "label": "Enter App Title" },
-      "header": "Overlay Settings"
+      "input": { "errorMsg": "अवैध एप शीर्षक", "label": "एप शीर्षक प्रविष्ट गर्नुहोस्" },
+      "header": "ओभरले सेटिंग्स"
     },
     "download": {
-      "starting": "Starting download...",
-      "failed": "Could not auto-download, please try again later",
-      "visit_gh": "Visit Github Releases",
-      "prompt": "Click on the button below to start download",
-      "download_now": "Download Now",
-      "download_for": "Download for %platform% (%ext%)"
+      "starting": "डाउनलोड सुरू गर्दै...",
+      "failed": "स्वत: डाउनलोड गर्न सकेन, कृपया पछि पुन: प्रयास गर्नुहोस्",
+      "visit_gh": "Github रिलिज मा जानुहोस",
+      "prompt": "डाउनलोड सुरू गर्न तलको बटनमा क्लिक गर्नुहोस्",
+      "download_now": "डाउनलोड गर्नुहोस्डाउनलोड गर्नुहोस्",
+      "download_for": "%platform% (%ext%) को लागि डाउनलोड गर्नुहोस्"
     },
     "privacySettings": {
-      "title": "Privacy Settings",
-      "header": "Privacy Settings",
-      "whispers": { "label": "Whispers", "on": "On", "off": "Off" }
+      "title": "गोपनीयता सेटिंग्स",
+      "header": "गोपनीयता सेटिंग्स",
+      "whispers": { "label": "कानेखुसी", "on": "खुल्ला", "off": "बन्द" }
     },
     "botEdit": {
-      "yourBots": "Your Bots",
-      "bots": "Bots",
-      "title": "Bot Information",
-      "apiKey": "ApiKey",
-      "regenerate": "Regenerate",
-      "reveal": "Click to reveal ApiKey"
+      "yourBots": "तपाईंको बट्स",
+      "bots": "बट्स",
+      "title": "बट जानकारी",
+      "apiKey": "एपीआई कि",
+      "regenerate": "पुनः निर्माण गर्नुहोस्",
+      "reveal": "एपीआई कि हेर्न क्लिक गर्नुहोस्"
     }
   },
   "components": {
@@ -197,14 +197,14 @@
       "settings": "सेटिंग्स",
       "speaker": "स्पिकर",
       "listener": "श्रोता",
-      "chat": "Chat",
-      "toggleDeafMicBtn": "Toggle Deafen",
-      "deafen": "Deafen",
-      "undeafen": "Undeafen"
+      "chat": "कुराकानी",
+      "toggleDeafMicBtn": "आवाज टगल गर्नुहोस्",
+      "deafen": "आवाज बन्द गर्नुहोस",
+      "undeafen": "आवाज खुल्ला गर्नुहोस"
     },
     "deviceNotSupported": {
       "notSupported": "तपाईंको उपकरण हाल समर्थित छैन। तपाईं ",
-      "linkText": "GitHub issue",
+      "linkText": "GitHub इस्यु",
       "addSupport": "बनाउन सक्नुहुन्छ र म तपाईंको उपकरणको लागि समर्थन थप्न प्रयास गर्दछु।"
     },
     "inviteButton": {
@@ -221,15 +221,15 @@
       "listening": "सुन्दै",
       "toggleMuteKeybind": "टॉगल म्यूट कीबाइंड",
       "togglePushToTalkKeybind": "टॉगल push-to-talk कीबाइंड",
-      "toggleOverlayKeybind": "toggle overlay keybind",
-      "toggleDeafKeybind": "Toggle deafen keybind"
+      "toggleOverlayKeybind": "ओभरले किबाइण्ड टगल गर्नुहोस्",
+      "toggleDeafKeybind": "डेफन किबाइन्ड टगल गर्नुहोस्"
     },
     "userVolumeSlider": {
       "noAudioMessage": "कुनै कारणका लागि कुनै अडियो उपभोक्ता छैन"
     },
     "addToCalendar": { "add": "क्यालेन्डरमा थप्नुहोस" },
     "wsKilled": {
-      "description": "Websocket was killed by the server. This usually happens when you open the website in another tab.",
+      "description": "सर्वरले वेबसकेट बन्द गर्यो। यो सामान्यतया वेबसाइट अर्को ट्याबमा खोल्दा हुने गर्छ।",
       "reconnect": "पुनः जडान गर्नुहोस्"
     },
     "modals": {
@@ -240,7 +240,7 @@
         "roomDescription": "रूमको बारेमा",
         "descriptionError": "अधिकतम लम्बाई 500 अक्षर",
         "nameError": "२ देखि ६० अक्षरसम्म लामो हुनुपर्दछ",
-        "subtitle": "Fill the following fields to start a new room"
+        "subtitle": "नयाँ रुम सुरू गर्न तलका फिल्डहरू भर्नुहोस्"
       },
       "invitedToJoinRoomModal": {
         "newRoomCreated": "नयाँ रूम बनेको छ",
@@ -250,38 +250,38 @@
         "inviteReceived": "तपाईंलाई यहाँ आमन्त्रित गरिएको छ"
       },
       "editProfileModal": {
-        "usernameTaken": "username taken",
-        "avatarUrlError": "Invalid image",
-        "avatarUrlLabel": "Github/Twitter/Discord avatar url",
-        "displayNameError": "length 2 to 50 characters",
-        "displayNameLabel": "Display Name",
-        "usernameError": "length 4 to 15 characters and only alphanumeric/underscore",
-        "usernameLabel": "Username",
-        "bioError": "max length of 160 characters",
-        "bioLabel": "Bio",
-        "bannerUrlLabel": "Twitter banner URL"
+        "usernameTaken": "प्रयोगकर्ता नाम लिइसकिएको छ",
+        "avatarUrlError": "अवैध फोटो ",
+        "avatarUrlLabel": "Github/Twitter/Discord अवतार युआरएल",
+        "displayNameError": "लम्बाई २ देखि ५० वर्णहरू",
+        "displayNameLabel": "प्रदर्शन गरिने नाम",
+        "usernameError": "लम्बाई २ देखि १० वर्णहरु (अल्फान्यूमेरिक र अन्डरस्कोर मात्र)",
+        "usernameLabel": "प्रयोगकर्ता नाम",
+        "bioError": "अधिकतम लम्बाई १६० वर्णहरु",
+        "bioLabel": "बायो",
+        "bannerUrlLabel": "ट्विटर ब्यानर URL"
       },
       "profileModal": {
         "blockUserConfirm": "के तपाई पक्का यस उपयोगकर्तालाई तपाईले बनाउनु भएको कुनै रूममा सामेल हुनबाट रोक्न चाहानुहुन्छ?",
         "blockUser": "ब्लक प्रयोगकर्ता",
-        "makeMod": "make mod",
-        "unmod": "unmod",
+        "makeMod": "मोड बनाउनुहोस्",
+        "unmod": "मोड हटाउनुहोस्",
         "addAsSpeaker": "स्पिकरको रूपमा थप्नुहोस्",
         "moveToListener": "श्रोताको रूपमा सार्नुहोस्",
-        "banFromChat": "ban from chat",
+        "banFromChat": "कुराकानीबाट प्रतिबन्ध गर्नुहोस",
         "banFromRoom": "रूमबाट प्रतिबन्ध",
         "goBackToListener": "श्रोताको लागि पछाडि जानुहोस",
         "deleteMessage": "यो मेसेज मेटाउनुहोस",
-        "makeRoomCreator": "make room admin",
-        "unBanFromChat": "Unban from Chat",
-        "banIPFromRoom": "Ban IP from Room"
+        "makeRoomCreator": "रुमको प्रशासक बनाउनुहोस",
+        "unBanFromChat": "कुराकानीबाट प्रतिबन्ध हटाउनुहोस",
+        "banIPFromRoom": "आइपी लाइ रुमबाट प्रतिबन्ध लगाउनुहोस"
       },
       "roomSettingsModal": {
         "requirePermission": "बोल्नको लागि अनुमति चाहिन्छ",
         "makePublic": "रूम सार्वजनिक बनाउनुहोस",
         "makePrivate": "रूम प्राइवेट बनाउनुहोस",
-        "renamePublic": "Set public room name",
-        "renamePrivate": "Set private room name",
+        "renamePublic": "सार्वजनिक रुमको नाम सेट गर्नुहोस",
+        "renamePrivate": "निजि रुमको नाम सेट गर्नुहोस्  ",
         "chatDisabled": "disable chat",
         "chatCooldown": "Chat Cooldown (milliseconds)",
         "chat": {
@@ -328,8 +328,8 @@
       "developer": "Developer Settings"
     },
     "userBadges": {
-      "dhStaff": "DogeHouse Staff",
-      "dhContributor": "DogeHouse Contributor"
+      "dhStaff": "डोजहाउस Staff",
+      "dhContributor": "डोजहाउस Contributor"
     },
     "messagesDropdown": {
       "title": "Messages",
